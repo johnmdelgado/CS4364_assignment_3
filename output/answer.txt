@@ -1,0 +1,13 @@
+{   'q1': ['doc1.txt', 'doc2.txt', 'doc3.txt', 'doc4.txt', 'doc5.txt', 'doc6.txt'],
+    'q2': ['doc2.txt', 'doc4.txt', 'doc6.txt'],
+    'q3': ['doc1.txt', 'doc2.txt', 'doc3.txt', 'doc4.txt', 'doc5.txt', 'doc6.txt'],
+    'q4': ['doc1.txt', 'doc2.txt', 'doc3.txt', 'doc4.txt', 'doc5.txt', 'doc6.txt'],
+    'q5': ['doc1.txt', 'doc2.txt', 'doc3.txt', 'doc4.txt', 'doc5.txt'],
+    'q6': ['doc1.txt', 'doc2.txt', 'doc3.txt', 'doc4.txt', 'doc5.txt', 'doc6.txt'],
+    'q7': ['doc1.txt'],
+    'q8': ['doc2.txt'],
+    'q9': ['doc3.txt'],
+    'q10': ['doc5.txt'],
+    'q11': ['doc1.txt', 'doc3.txt', 'doc5.txt', 'doc6.txt'],
+    'q12': ['doc6.txt'],
+    'q13': -1}
